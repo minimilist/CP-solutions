@@ -31,29 +31,29 @@ The sum of 𝑛 over all test cases doesn't exceed 5⋅105.
 For each test case, print the minimum number of moves needed such that the array 𝑎 becomes good.
 
 ### Inputs
-5
-4 2 2
-1 2 3 4
-1 3
-5 2 4
-5 4 3 2 1
-5 2
-5 3 3
-3 4 1 5 2
-3 1 2
-2 2 1
-1 2
-2 1
-6 2 4
-1 2 3 4 5 6
-2 5
+-  5
+  -  4 2 2
+  -  1 2 3 4
+  -  1 3
+  -  5 2 4
+  -  5 4 3 2 1
+  -  5 2
+  -  5 3 3
+  -  3 4 1 5 2
+  -  3 1 2
+  -  2 2 1
+  -  1 2
+  -  2 1
+  -  6 2 4
+  -  1 2 3 4 5 6
+  -  2 5
 
 ### Output
-1
-3
-2
-0
-2
+-  1
+-  3
+-  2
+-  0
+-  2
 
 
 Here's the link to the problem: https://codeforces.com/contest/1778/problem/B
